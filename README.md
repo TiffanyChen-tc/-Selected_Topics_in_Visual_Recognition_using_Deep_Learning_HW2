@@ -67,6 +67,11 @@ Predictions are saved to `pred.json` in COCO result format.
 
 ## Performance Snapshot
 
+The final competition result is shown below:
+
+![Competition Result](https://github.com/TiffanyChen-tc/-Selected_Topics_in_Visual_Recognition_using_Deep_Learning_HW2/blob/f99aa013a7e2798e37a6a7a287c17a0803ba189b/competition.png)
+
+
 | Method | Val mAP | Test mAP |
 |---|---|---|
 | Baseline (DETR) | 0.408 | 0.30 |
